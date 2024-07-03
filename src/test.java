@@ -1,4 +1,4 @@
-#first java
+#first java task
 package hello;
 
 import static org.hamcrest.CoreMatchers.containsString;
